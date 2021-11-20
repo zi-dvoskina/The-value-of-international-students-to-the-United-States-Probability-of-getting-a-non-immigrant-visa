@@ -27,4 +27,5 @@ An interesting finding was that software engineers are at the top job title to o
 
 __________________________________
 
-In this repository you can find our data, code, Tableau workbooks, project report and a presentation with our major findings.
+In this repository you can find our code, Tableau workbooks, project report and a presentation with our major findings.
+The data file is too big to upload here.
