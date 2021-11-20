@@ -15,6 +15,10 @@ To conduct research, used publicly available data from the U.S. Citizenship and 
 
 Tableau visualizations showed no strong trend to justify that the political party in office affects the likelihood of a foreigner obtaining a visa. A timelapse, also created in Tableau, shows the world map, where visa numbers can be filtered by region, country, and compared between years.
 
+![Visa by Year and Party](https://user-images.githubusercontent.com/67168908/142707443-ceb1f772-a9ad-4f45-b090-52f464e51ee7.png)
+![Visa Cat Working](https://user-images.githubusercontent.com/67168908/142707450-188090bf-b053-4bea-848e-b66c6085f485.png)
+![Visa Time Lapse](https://user-images.githubusercontent.com/67168908/142707523-ef4923f0-d868-4c8d-b905-23057423789f.png)
+
 Created a KNN model for classification with the following variables as predictors: Received month, Agent representing employer, Annual wage rate, Annual prevailing wage, PW wage level, H-1B dependent status, Support H1B status. 
 
 Datasets are populated with approved results of visa applications - almost 97% of data is positive, whereas the negative Case Status percentage is very small. That resulted in highly biased prediction models towards positive outcomes, which means the model wasn’t very trustworthy, even though it performed very well predicting positive outcomes for visa approval.
